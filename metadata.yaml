@@ -1,0 +1,29 @@
+_repo: Our-PeopleFrom-the-Collection-of--Mr.-Punch-_41057
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41057-h/images/i_cover.jpg
+creator:
+  author:
+    agent_name: Keene, Charles
+    alias: Keene, Charles Samuel
+    birthdate: 1823
+    deathdate: 1891
+    gutenberg_agent_id: '37404'
+    url: http://www.gutenberg.org/2009/agents/37404
+description: ''
+gutenberg_issued: '2012-10-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41057'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NC'
+- !lcsh 'English wit and humor, Pictorial'
+title: 'Our People
+
+  From the Collection of "Mr. Punch"'
+url: http://www.gutenberg.org/ebooks/41057
